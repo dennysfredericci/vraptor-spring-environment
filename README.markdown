@@ -5,6 +5,6 @@ A simple vraptor plugin that extends the [vraptor-environment](https://github.co
 
 Aftert install the vraptor-environment add the below line in your applicationContext.xml
 
-<bean class="br.com.caelum.vraptor.environment.EnvironmentPropertyPlaceholder" />
+`<bean class="br.com.caelum.vraptor.environment.EnvironmentPropertyPlaceholder" />`
 
 
